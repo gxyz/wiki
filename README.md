@@ -5,7 +5,7 @@
 - 酷壳: [https://coolshell.cn](https://coolshell.cn)
 - 阮一峰: [ruanyifeng.com/blog/](ruanyifeng.com/blog/)
 - phodal: [https://www.phodal.com/](https://www.phodal.com/)
-- 鸟窝: [colobu.com](colobu.com)
+- 鸟窝: [http://colobu.com](http://colobu.com)
 - 小明明s à domicile: [http://www.dongwm.com/](http://www.dongwm.com/)
 - 张鑫旭: [http://www.zhangxinxu.com/wordpress/](http://www.zhangxinxu.com/wordpress/)
 - the5fire: [https://www.the5fire.com/](https://www.the5fire.com/)
@@ -29,6 +29,33 @@
 - Weekly Golang Newsletter: [http://importgolang.com/newsletter/](http://importgolang.com/newsletter/)
 - Weekly Python Newsletter: [http://importpython.com/newsletter/](http://importpython.com/newsletter/)
 
+## 笨办法系列
+
+- 笨办法学c: [中文版](https://github.com/wizardforcel/lcthw-zh), [英文版](http://c.learncodethehardway.org/book/)
+- 笨办法学Python: [中文版](https://www.kancloud.cn/kancloud/learn-python-hard-way/49864), [英文版](https://learnpythonthehardway.org/)
+- 笨办法学Python·续: [中文版](https://github.com/Kivy-CN/lmpythw-zh), [英文版](https://learncodethehardway.org/more-python-book/)
+- 笨办法学Linux: [中文版](https://github.com/wizardforcel/llthw-zh), [英文版](https://archive.fo/xDb8o)
+
+## 社区:
+
+- v2ex: [https://www.v2ex.com/](https://www.v2ex.com/)
+- segmentfault: [https://segmentfault.com/](https://segmentfault.com/)
+- 掘金: [https://juejin.im/timeline](https://juejin.im/timeline)
+- Go中国技术社区: [https://gocn.io/](https://gocn.io/)
+- Python China: [http://python-china.org/](http://python-china.org/)
+- Python部落: [https://python.freelycode.com/](https://python.freelycode.com/)
+- SofaSofa-数据科学社区: [http://sofasofa.io/](http://sofasofa.io/)
+- 图灵社区: [http://www.ituring.com.cn/](http://www.ituring.com.cn/)
+- 异步社区: [http://www.epubit.com.cn](http://www.epubit.com.cn)
+
+## 在线学习
+
+- 实验楼: [https://www.shiyanlou.com/](https://www.shiyanlou.com/)
+- 慕课网: [http://imooc.com](http://imooc.com)
+- 网易云课堂: [http://study.163.com/](http://study.163.com/)
+- bilibili: [https://www.bilibili.com/](https://www.bilibili.com/)
+
 ## 工具
 
 - 在线学习和测试正则表达式的工具: [regexr](https://regexr.com)
+- 在线绘图工具: [ProcessOn](www.processon.com)
