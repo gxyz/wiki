@@ -47,6 +47,10 @@
 - Weekly Golang Newsletter: [http://importgolang.com/newsletter/](http://importgolang.com/newsletter/)
 - Weekly Python Newsletter: [http://importpython.com/newsletter/](http://importpython.com/newsletter/)
 
+## book
+
+- Real World Haskell中文版: [Github](https://github.com/huangz1990/real-world-haskell-cn), [在线阅读](http://cnhaskell.com/)
+
 ## 笨办法系列
 
 - 笨办法学c: [中文版](https://github.com/wizardforcel/lcthw-zh), [英文版](http://c.learncodethehardway.org/book/)
